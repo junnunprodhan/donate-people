@@ -1,0 +1,138 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.top-banner{
+    text-align: center;
+    background-image: url(images/top-bg2.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-title{
+    font-size: 50px;
+    color: #F9F9F9;
+    padding-top: 30px;
+}
+.top-element{
+    margin: 20px;
+    padding-top: 20px;
+}
+.top-info{
+    color: #F9F9F9;
+    font-size: small;
+}
+.donate-btn{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.btn{
+    margin-top: 50px;
+}
+.donate-title{
+    text-align: center;
+    margin: 100px;
+}
+.card-amount{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #FAFAFA;
+    box-shadow: 3px 3px 10px gray;
+    text-align: center;
+    margin: 50px 20px;
+}
+.amount{
+    text-align: center;
+    font-size: 40px;
+    color: #707070 ;
+    padding: 10px;
+}
+.title{
+    font-size:35px;
+}
+.card-menu{
+    display: flex;
+    margin-left: 250px;   
+}
+#card-highlight{
+    background-color:#FFEEEE;
+    border:1px solid #FF5959;
+}
+#amount-highlight{
+    color: #FF6B6B;
+}
+.input-amount{
+    border: none;
+    height: 40px;
+    width: 500px;
+    border-bottom: 1px solid #707070;
+    text-align: center;
+}
+.input-area{
+    text-align: center;
+}
+.plan-card{
+    height: 200px;
+    width: 300px;
+    background-color: #EDF5F6;
+    padding: 70px 20px;
+    text-align: left;
+    margin: 30px;
+    border-radius: 10px;
+}
+.donate-plan{
+    display: flex;
+    margin-left: 150px;
+}
+#shelter-card{
+    background-color: #FFEEEE;
+}
+#education-card{
+    background-color: #FFF4D6;
+}
+.subcribe-email{
+    padding-top: 100px;
+    width: 809px;
+    height: 200px;
+    text-align: center;
+    background-color: #FFF4D6;
+}
+.email-input{
+    padding: 15px 60px;
+    margin: 10px;
+    border: none;
+}
+.subcribe-btn{
+    border: none;
+    background-color:#FF5959 ;
+    color: white;
+    padding: 15px 70px;
+    border-radius: 5px;
+}
+.email-box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.get-updates{
+    margin-bottom: 30px;
+}
+.footer-area{
+    background-color: black;
+    text-align: center;
+    height: 144px;
+}
+#humble{
+    color: #FF5959;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+.footer-text{
+    padding-bottom: 20px;
+}
