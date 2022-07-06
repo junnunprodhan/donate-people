@@ -8,6 +8,7 @@ body{
     height: 450px;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 30px;
 }
 .top-title{
     font-size: 50px;
@@ -34,7 +35,10 @@ body{
 }
 .donate-title{
     text-align: center;
-    margin: 100px;
+    margin-top: 100px;
+}
+.donate-plan{
+    margin-bottom: 100px;
 }
 .card-amount{
     height: 150px;
@@ -117,6 +121,9 @@ body{
     height: 200px;
     text-align: center;
     background-color: #FFF4D6;
+}
+.news-title title{
+    text-align: center;
 }
 .extra-card {
     height: 400px;
