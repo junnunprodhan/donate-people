@@ -25,7 +25,7 @@ body{
 .donate-btn{
     text-decoration: none;
     background-color: #FF5959;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 10px;
     color: white;
 }
@@ -41,7 +41,6 @@ body{
     width: 150px;
     border-radius: 10px;
     background-color: #FAFAFA;
-    box-shadow: 3px 3px 10px gray;
     text-align: center;
     margin: 50px 20px;
 }
@@ -71,6 +70,7 @@ body{
     width: 500px;
     border-bottom: 1px solid #707070;
     text-align: center;
+    font-size: larger;
 }
 .input-area{
     text-align: center;
@@ -110,7 +110,7 @@ body{
     border: none;
     background-color:#FF5959 ;
     color: white;
-    padding: 15px 70px;
+    padding: 15px 45px;
     border-radius: 5px;
 }
 .email-box{
@@ -145,7 +145,6 @@ body{
     background-color: black;
     text-align: center;
     height: 200px;
-
 }
 #humble{
     color: #FF5959;
