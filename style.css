@@ -94,13 +94,7 @@ body{
 #education-card{
     background-color: #FFF4D6;
 }
-.subcribe-email{
-    padding-top: 100px;
-    width: 809px;
-    height: 200px;
-    text-align: center;
-    background-color: #FFF4D6;
-}
+
 .email-input{
     padding: 15px 60px;
     margin: 10px;
@@ -118,6 +112,11 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    padding-top: 100px;
+    width: 809px;
+    height: 200px;
+    text-align: center;
+    background-color: #FFF4D6;
 }
 .extra-card {
     height: 400px;
