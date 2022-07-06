@@ -119,20 +119,41 @@ body{
     margin-right: auto;
     width: 50%;
 }
+.extra-card {
+    height: 400px;
+    width: 400px;
+    padding:50px;
+    background-color:#EDF5F6;
+    border-radius: 10px;
+    margin: 20px
+}
+.extra-menu{
+    display: flex;
+}
+.extra-card img{
+    width: 100%;
+}
+#more-information{
+    margin: 0;
+}
+
+
 .get-updates{
     margin-bottom: 30px;
 }
 .footer-area{
     background-color: black;
     text-align: center;
-    height: 144px;
+    height: 200px;
+
 }
 #humble{
     color: #FF5959;
-    padding: 20px;
+    padding-top: 30px;
     font-size: 30px;
     font-family: 'Lobster', cursive;
+    margin-top:100px;  
 }
 .footer-text{
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
