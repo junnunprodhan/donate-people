@@ -104,7 +104,7 @@ body{
     margin: 10px;
     border: none;
 }
-.subcribe-btn{
+.subscribe-btn{
     border: none;
     background-color:#FF5959 ;
     color: white;
@@ -121,6 +121,7 @@ body{
     height: 200px;
     text-align: center;
     background-color: #FFF4D6;
+    margin-top: 50px;
 }
 .news-title title{
     text-align: center;
